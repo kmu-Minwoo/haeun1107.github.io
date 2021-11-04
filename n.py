@@ -1,0 +1,2 @@
+n = haeun
+print(n)
