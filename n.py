@@ -1,2 +1,0 @@
-n = haeun
-print(n)
