@@ -206,3 +206,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-spaceship
+
+comment:
+  provider:           "disqus"
+  disqus:
+    shortname:        "haeun1107"
