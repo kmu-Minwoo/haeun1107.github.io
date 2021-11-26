@@ -24,7 +24,7 @@ Password에 PAT을 입력하여 git push를 성공했습니다.
 
 ## Jekyll 설치
 
-bundle exec jekyll serve 실행 후, localhost:4000 접속했습니다. 기본 테마로 된 Jekyll 사이트가 생성되었습니다.
+bundle exec jekyll serve 실행 후, localhost:4000에 접속했습니다. 기본 테마로 된 Jekyll 사이트가 생성되었습니다.
 
 ## _config.yml 수정
 
@@ -32,7 +32,7 @@ bundle exec jekyll serve 실행 후, localhost:4000 접속했습니다. 기본 �
 
 ## Post Upload
 
-_posts 폴더에 새로운 문서(2021-11-17-haeun1107-story.md)를 생성하여 Markdown 형식을 통해 내용을 작성하였습니다. Local에 commit으로 반영 후, Remote로 push했습니다.
+_posts 폴더에 새로운 문서(2021-11-17-haeun1107-story.md)를 생성하여 Markdown 형식을 통해 내용을 작성하였습니다. Local에 commit으로 반영한 후, Remote로 push했습니다.
 
 ## Jekyll 테마 적용
 
@@ -40,7 +40,7 @@ _posts 폴더에 새로운 문서(2021-11-17-haeun1107-story.md)를 생성하여
 
 ## Customize blog
 
-댓글 기능을 추가하기 위해 Disqus 홈페이지에서 Disqus 가입을 하고 세팅했습니다.
+댓글 기능을 추가하기 위해 Disqus 홈페이지에서 Disqus에 가입을 하고 세팅했습니다.
 
 ## Blog에 Disqus 반영
 
@@ -48,4 +48,4 @@ _config.yml 파일에 key-value를 추가했습니다. disqus 홈페이지에서
 
 ## 나만의 Blog 완성!
 
-Post에 댓글 기능 추가 후 나의 Blog 분위기에 맞게 내용을 수정하여 나만의 Blog를 완성했습니다!
+나의 Blog 분위기에 맞게 내용을 수정하여 나만의 Blog를 완성했습니다!
