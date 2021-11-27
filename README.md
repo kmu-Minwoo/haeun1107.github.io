@@ -46,6 +46,10 @@ _posts 폴더에 새로운 문서(2021-11-17-haeun1107-story.md)를 생성하여
 
 _config.yml 파일에 key-value를 추가했습니다. disqus 홈페이지에서 Universal Code를 복사한 후, _includes/extensions/comments/disqus.html 파일을 페이지에 맞게 수정했습니다. 주석 해제 후, PAGE_URL과 PAGE_IDENTIFIER를 설정하고 s.src가 잘 지정되어있는지 확인했고, 댓글을 허용하고 싶은 곳인 2021-11-17-haeun1107-story.md와 2021-11-26-Git.md에 comments: True로 지정했습니다.
 
+## favicon 생성
+
+웹페이지 접속 시 상단 탭에 국민대학교 로고 아이콘이 보여질 수 있도록 favicon을 추가해주었습니다. 먼저 kookmin.ico라는 파비콘 파일을 만들고 head.html에서 <head> 부분에 코드를 추가했습니다.
+
 ## 나만의 Blog 완성!
 
 나의 Blog 분위기에 맞게 내용을 수정하여 나만의 Blog를 완성했습니다!
