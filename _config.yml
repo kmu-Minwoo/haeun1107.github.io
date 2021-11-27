@@ -205,6 +205,7 @@ plugins:
   - jekyll-paginate
   - jekyll-spaceship
 
+# Comments
 comment:
   provider:           "disqus"
   disqus:
