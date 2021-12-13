@@ -52,7 +52,7 @@ _config.yml 파일에 key-value를 추가했습니다. disqus 홈페이지에서
 
 ## Google Analytics 기능 추가
 
-웹페이지 방문자의 유입 경로, 오래 본 페이지 등을 확인할 수 있는 Google Analytics 기능을 추가했습니다. 먼저 Google Analytics에 접속하여 로그인했고, tracking ID를 찾아 그에 맞게 _config.yml을 수정하였습니다. 그리고 head.html에 에널리틱스 태그를 추가했습니다.
+웹페이지 방문자의 유입 경로, 오래 본 페이지 등을 확인할 수 있는 Google Analytics 기능을 추가했습니다. 먼저 Google Analytics에 접속하여 로그인했고, tracking ID를 찾아 그에 맞게 _config.yml을 수정하였습니다. 그리고 head.html에 에널리틱스 태그를 추가했습니다. 기능을 추가한 과정을 post로 작성하였습니다.
 
 ## 나만의 Blog 완성!
 
