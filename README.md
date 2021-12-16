@@ -42,7 +42,7 @@ _posts 폴더에 새로운 문서(2021-11-17-haeun1107-story.md)를 생성하여
 
 댓글 기능을 추가하기 위해 Disqus 홈페이지에서 Disqus에 가입을 하고 세팅했습니다.
 
-## Blog에 Disqus 반영 (댁글 기능 추가)
+## Blog에 Disqus 반영 (댓글 기능 추가)
 
 _config.yml 파일에 key-value를 추가했습니다. disqus 홈페이지에서 Universal Code를 복사한 후, _includes/extensions/comments/disqus.html 파일을 페이지에 맞게 수정했습니다. 주석 해제 후, PAGE_URL과 PAGE_IDENTIFIER를 설정하고 s.src가 잘 지정되어있는지 확인했고, 댓글을 허용하고 싶은 곳인 2021-11-17-haeun1107-story.md와 2021-11-26-Git.md, 2021-12-01-markdown.md 에 comments: True로 지정했습니다.
 
